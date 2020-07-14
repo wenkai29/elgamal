@@ -1,4 +1,4 @@
-elgamal
+[![Run on Repl.it](https://repl.it/badge/github/RyanRiddle/elgamal)](https://repl.it/github/RyanRiddle/elgamal)elgamal
 =======
 
 Overview: elgamal is a python module that lets you encrypt and decrypt text using the ElGamal Cryptosystem.
